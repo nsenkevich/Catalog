@@ -10,6 +10,7 @@
 
 namespace Catalog;
 
+
 use Zend\Mvc\ModuleRouteListener;
 
 class Module
